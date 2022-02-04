@@ -1,0 +1,10 @@
+<svg id="license" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <circle id="Oval" cx="12" cy="12" r="12" fill="#3bae8c"/>
+  <g id="credit-card" transform="translate(5.79 7.645)">
+    <path id="Path" d="M9.88,0H.716A.727.727,0,0,0,0,.732V6.368a.71.71,0,0,0,.716.7h.371v-4.6A1.358,1.358,0,0,1,2.453,1.119H10.59V.732A.722.722,0,0,0,9.88,0Z" fill="#fff"/>
+    <path id="Path-2" data-name="Path" d="M2.133.125a.513.513,0,0,0-.723.064.339.339,0,0,1-.048.048A.32.32,0,0,1,.912.189a.515.515,0,1,0-.393.844.5.5,0,0,0,.4-.186A.317.317,0,0,1,1.161.732a.309.309,0,0,1,.246.112.444.444,0,0,0,.067.067A.513.513,0,1,0,2.133.125Z" transform="translate(8.744 6.496)" fill="#fff"/>
+    <path id="Path-3" data-name="Path" d="M9.893,0H.726A.719.719,0,0,0,0,.713v.47H10.622V.713A.719.719,0,0,0,9.893,0Z" transform="translate(1.727 1.759)" fill="#fff"/>
+    <rect id="Rectangle" width="10.619" height="0.832" transform="translate(1.727 3.582)" fill="#fff"/>
+    <path id="Shape" d="M.726,3.774A.731.731,0,0,1,0,3.042V0H10.619V3.042a.736.736,0,0,1-.729.732Z" transform="translate(1.727 5.054)" fill="#fff"/>
+  </g>
+</svg>
